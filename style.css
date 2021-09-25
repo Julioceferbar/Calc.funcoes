@@ -1,0 +1,49 @@
+body {
+  background: rgb(45, 45, 247);
+  font: normal 15pt Arial;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+section {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.481);
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+.calculadora {
+  width: 400px;
+}
+
+.display {
+  font-size: 2em;
+  width: 100%;
+  text-align: right;
+}
+
+.btn {
+  width: 100%;
+  height: 50px;
+  font-size: 1em;
+  border: none;
+  background: #dfdfdf;
+  cursor: pointer;
+}
+.btn:hover {
+  background: #9e9e9e;
+}
+.btn-eq {
+  background: royalblue;
+}
