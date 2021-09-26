@@ -1,4 +1,4 @@
 # Calc.funcoes
-Criando calculadora , praticando factory functions
+Criando calculadora , praticando factory funçoes fabricas e funções construtorsas
 
 conquistas..
